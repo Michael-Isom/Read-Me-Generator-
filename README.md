@@ -1,6 +1,6 @@
 
 # ReadMeGenerator
-const { generateReadmeContent } = require('./path/to/file');
+
 ## Description
 A Generator that provides a read me when a user inputs information
 A README generator that asks for details about the project, such as its title, description, installation instructions, usage, contributing guidelines, license, and contact information, then formats these into a well-structured document.
