@@ -3,6 +3,7 @@
 const { generateReadmeContent } = require('./path/to/file');
 ## Description
 A Generator that provides a read me when a user inputs information
+A README generator that asks for details about the project, such as its title, description, installation instructions, usage, contributing guidelines, license, and contact information, then formats these into a well-structured document.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,16 +13,19 @@ A Generator that provides a read me when a user inputs information
 - [License](#license)
 
 ## Installation
-installing through node
+installing packages through node then answers the questions provided 
 
 ## Usage
-through terminal in node 
+when using terminal in node you can quickly generate Readme's
 
 ## Features
-undefined
+Can generate a ReadMe from the users inputs through a couple of questions 
 
 ## Contributing
-undefined
+
 
 ## License
-undefined
+
+## User demo of deployed app :
+https://github.com/user-attachments/assets/8de00e5b-3e39-4311-a268-3b2f200afbb7
+
