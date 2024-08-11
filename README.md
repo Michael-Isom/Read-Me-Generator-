@@ -17,9 +17,12 @@ installing packages through node then answers the questions provided
 
 ## Usage
 when using terminal in node you can quickly generate Readme's
+customization of your own important information through ReadMe's 
+Being able to make updates as your project grows 
 
 ## Features
 Can generate a ReadMe from the users inputs through a couple of questions 
+Mark down support showing you the table of contents 
 
 ## Contributing
 
